@@ -1,1 +1,1 @@
-- Preview here: https://wilardzysenpai.github.io/Personal-Site-v2/
+- Preview here: https://portofolio-reisan.netlify.app/
